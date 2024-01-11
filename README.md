@@ -1,4 +1,4 @@
-# OpenAI Quickstart Guide
+# GenAI-with-OpenAI-API
 
 <p align="center">
     <br> English | <a href="README-CN.md">中文</a>
